@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://22B1NUM1406.github.io/online",
+  "homepage": "https://22B1NUM1406.github.io/online-shop",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
